@@ -1,0 +1,162 @@
+{
+    "flights": [
+        {
+            "no": 101,
+            "airline": "IndiGo",
+            "src": "Pune",
+            "dest": "Delhi",
+            "dep": "06:15",
+            "price": 4500,
+            "dur": 135,
+            "seats": 5
+        },
+        {
+            "no": 102,
+            "airline": "Air India",
+            "src": "Pune",
+            "dest": "Delhi",
+            "dep": "14:30",
+            "price": 5200,
+            "dur": 140,
+            "seats": 12
+        },
+        {
+            "no": 103,
+            "airline": "SpiceJet",
+            "src": "Mumbai",
+            "dest": "Bangalore",
+            "dep": "08:00",
+            "price": 3800,
+            "dur": 105,
+            "seats": 8
+        },
+        {
+            "no": 104,
+            "airline": "Vistara",
+            "src": "Pune",
+            "dest": "Bangalore",
+            "dep": "09:45",
+            "price": 4100,
+            "dur": 90,
+            "seats": 15
+        },
+        {
+            "no": 105,
+            "airline": "Akasa Air",
+            "src": "Mumbai",
+            "dest": "Delhi",
+            "dep": "11:20",
+            "price": 4900,
+            "dur": 130,
+            "seats": 20
+        },
+        {
+            "no": 106,
+            "airline": "IndiGo",
+            "src": "Delhi",
+            "dest": "Pune",
+            "dep": "18:00",
+            "price": 4700,
+            "dur": 135,
+            "seats": 7
+        },
+        {
+            "no": 107,
+            "airline": "Air India",
+            "src": "Bangalore",
+            "dest": "Pune",
+            "dep": "19:15",
+            "price": 4300,
+            "dur": 95,
+            "seats": 10
+        },
+        {
+            "no": 108,
+            "airline": "SpiceJet",
+            "src": "Chennai",
+            "dest": "Hyderabad",
+            "dep": "07:30",
+            "price": 2800,
+            "dur": 75,
+            "seats": 14
+        },
+        {
+            "no": 109,
+            "airline": "IndiGo",
+            "src": "Hyderabad",
+            "dest": "Chennai",
+            "dep": "16:45",
+            "price": 2950,
+            "dur": 70,
+            "seats": 0
+        },
+        {
+            "no": 110,
+            "airline": "Vistara",
+            "src": "Delhi",
+            "dest": "Bangalore",
+            "dep": "10:10",
+            "price": 5800,
+            "dur": 165,
+            "seats": 18
+        },
+        {
+            "no": 111,
+            "airline": "Air India",
+            "src": "Pune",
+            "dest": "Hyderabad",
+            "dep": "12:00",
+            "price": 3200,
+            "dur": 80,
+            "seats": 9
+        },
+        {
+            "no": 112,
+            "airline": "IndiGo",
+            "src": "Hyderabad",
+            "dest": "Pune",
+            "dep": "21:00",
+            "price": 3400,
+            "dur": 85,
+            "seats": 16
+        },
+        {
+            "no": 113,
+            "airline": "Akasa Air",
+            "src": "Bangalore",
+            "dest": "Chennai",
+            "dep": "13:40",
+            "price": 2600,
+            "dur": 60,
+            "seats": 11
+        },
+        {
+            "no": 114,
+            "airline": "SpiceJet",
+            "src": "Mumbai",
+            "dest": "Hyderabad",
+            "dep": "15:50",
+            "price": 3100,
+            "dur": 90,
+            "seats": 6
+        },
+        {
+            "no": 115,
+            "airline": "Vistara",
+            "src": "Delhi",
+            "dest": "Mumbai",
+            "dep": "17:25",
+            "price": 5100,
+            "dur": 135,
+            "seats": 20
+        }
+    ],
+    "bookings": [
+        {
+            "id": 1001,
+            "name": "shravan",
+            "flight": 115,
+            "seats": 2
+        }
+    ]
+}
